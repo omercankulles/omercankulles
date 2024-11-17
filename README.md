@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Full Stack Web Developer
 --------------------
 
-I am a software developer residing in Antalya. As a dynamic and results-oriented software development expert with extensive experience, I am proficient in modern programming languages and technologies such as PHP, Laravel, Codeigniter, HTML, CSS, JavaScript, Ajax, and jQuery. I have significant experience in developing and integrating customized management information systems that enhance business processes and improve operational efficiency. I am passionate about contributing to the evolution of web technologies and enjoy being a part of this dynamic field.
+I am a software developer residing in İstanbul. As a dynamic and results-oriented software development expert with extensive experience, I am proficient in modern programming languages and technologies such as PHP, Laravel, Codeigniter, HTML, CSS, JavaScript, Ajax, and jQuery. I have significant experience in developing and integrating customized management information systems that enhance business processes and improve operational efficiency. I am passionate about contributing to the evolution of web technologies and enjoy being a part of this dynamic field.
 
 * 🌍  I'm based in Antalya
 * ✉️  You can contact me at [omercankulles@gmail.com](mailto:omercankulles@gmail.com)
