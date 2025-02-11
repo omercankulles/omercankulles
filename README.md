@@ -8,7 +8,7 @@ I am a software developer residing in İstanbul. As a dynamic and results-orient
 
 * 🌍  I'm based in İstanbul
 * ✉️  You can contact me at [omercankulles@gmail.com](mailto:omercankulles@gmail.com)
-* 🧠  I'm learning Filament , Livewire , React , Refine
+* 🧠  I'm learning Filament , Livewire , React , Next.js , Refine
 
 ### Skills
 
